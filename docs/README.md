@@ -1,5 +1,7 @@
-# Welcome to my blog!
+# Welcome to my blog
 
-Hey there!
+I had this idea of a cool car.
 
-This is my blog post. Hehehe!
+![[20230915_184715.jpg]]
+
+I really like this photo!
