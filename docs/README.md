@@ -2,6 +2,5 @@
 
 Just testing
 
-![](20230915_184715.jpg)
+![](images/20230915_184715.jpg)
 
-I really like this photo!
