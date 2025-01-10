@@ -9,10 +9,15 @@ docsify serve ./docs
 ```
 2) Go to http://localhost:3000
 
-Emojis
+### Emojis
 `cmd + ctrl + spacebar`
 
-Repo
+### Repo
 ```
 https://github.com/kileemanjaro/kilee-blog
+```
+
+### URL
+```
+https://kileemanjaro.github.io/kilee-blog/
 ```
