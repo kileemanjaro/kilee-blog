@@ -1,6 +1,6 @@
 # Welcome to my blog
 
-I had this idea of a cool car.
+Just testing
 
 ![](20230915_184715.jpg)
 
