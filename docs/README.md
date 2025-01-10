@@ -1,6 +1,11 @@
-# Welcome to my blog
+# Blog Notes
 
-Just testing
+Run Docsify locally
+```
+docsify serve ./docs
+```
 
-![](images/20230915_184715.jpg)
-
+Repo
+```
+https://github.com/kileemanjaro/kilee-blog
+```
