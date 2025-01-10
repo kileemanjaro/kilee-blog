@@ -1,6 +1,6 @@
 I really enjoy working with plants.
 
-![](20230803_120317.jpg)
+![](images/20230803_120317.jpg)
 ### Table
 
 | Syntax           | Description |     |
