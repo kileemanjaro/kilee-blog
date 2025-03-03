@@ -30,7 +30,7 @@ For a long time, I believed the best way to manage them was to remain **rooted i
 
   
 
-It felt like a game of **mental whack-a-mole**—relentless, exhausting, unwinnable.
+It felt like a game of  whack-a-mole**—relentless, exhausting, unwindable.
 
   
 
